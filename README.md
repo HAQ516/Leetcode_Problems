@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/HAQ516/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/HAQ516/Coding/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/HAQ516/Coding/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/HAQ516/Coding/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/HAQ516/Coding/tree/master/0264-ugly-number-ii) |
 | [0409-longest-palindrome](https://github.com/HAQ516/Coding/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0523-continuous-subarray-sum) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HAQ516/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/HAQ516/Coding/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/HAQ516/Coding/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/HAQ516/Coding/tree/master/0415-add-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HAQ516/Coding/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/HAQ516/Coding/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HAQ516/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
