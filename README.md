@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/HAQ516/Coding/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAQ516/Coding/tree/master/2248-intersection-of-multiple-arrays) |
+| [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HAQ516/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/HAQ516/Coding/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HAQ516/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/HAQ516/Coding/tree/master/0367-valid-perfect-square) |
+| [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
 ## Simulation
 |  |
 | ------- |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAQ516/Coding/tree/master/2248-intersection-of-multiple-arrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/HAQ516/Coding/tree/master/2270-number-of-ways-to-split-array) |
+| [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Sorting
 |  |
