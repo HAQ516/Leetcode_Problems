@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/HAQ516/Coding/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/HAQ516/Coding/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/HAQ516/Coding/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/HAQ516/Coding/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2090-k-radius-subarray-averages](https://github.com/HAQ516/Coding/tree/master/2090-k-radius-subarray-averages) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/HAQ516/Coding/tree/master/2270-number-of-ways-to-split-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Sorting
