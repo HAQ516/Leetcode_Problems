@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/HAQ516/Coding/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/HAQ516/Coding/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/HAQ516/Coding/tree/master/2248-intersection-of-multiple-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/HAQ516/Coding/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2090-k-radius-subarray-averages](https://github.com/HAQ516/Coding/tree/master/2090-k-radius-subarray-averages) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2248-intersection-of-multiple-arrays](https://github.com/HAQ516/Coding/tree/master/2248-intersection-of-multiple-arrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/HAQ516/Coding/tree/master/2270-number-of-ways-to-split-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Sorting
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HAQ516/Coding/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2248-intersection-of-multiple-arrays](https://github.com/HAQ516/Coding/tree/master/2248-intersection-of-multiple-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HAQ516/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/HAQ516/Coding/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/HAQ516/Coding/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/HAQ516/Coding/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2248-intersection-of-multiple-arrays](https://github.com/HAQ516/Coding/tree/master/2248-intersection-of-multiple-arrays) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HAQ516/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
 |  |
