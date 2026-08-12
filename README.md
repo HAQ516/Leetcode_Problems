@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/HAQ516/Coding/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/HAQ516/Coding/tree/master/0415-add-strings) |
+| [0867-transpose-matrix](https://github.com/HAQ516/Coding/tree/master/0867-transpose-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/HAQ516/Coding/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HAQ516/Coding/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/HAQ516/Coding/tree/master/0643-maximum-average-subarray-i) |
+| [0867-transpose-matrix](https://github.com/HAQ516/Coding/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/HAQ516/Coding/tree/master/0930-binary-subarrays-with-sum) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HAQ516/Coding/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
@@ -185,4 +187,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HAQ516/Coding/tree/master/0036-valid-sudoku) |
+| [0867-transpose-matrix](https://github.com/HAQ516/Coding/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
