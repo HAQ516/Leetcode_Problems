@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HAQ516/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/HAQ516/Coding/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/HAQ516/Coding/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/HAQ516/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/HAQ516/Coding/tree/master/0242-valid-anagram) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/HAQ516/Coding/tree/master/0036-valid-sudoku) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HAQ516/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/HAQ516/Coding/tree/master/0219-contains-duplicate-ii) |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HAQ516/Coding/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2090-k-radius-subarray-averages](https://github.com/HAQ516/Coding/tree/master/2090-k-radius-subarray-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/HAQ516/Coding/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
