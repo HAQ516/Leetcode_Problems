@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HAQ516/Coding/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/HAQ516/Coding/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HAQ516/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/HAQ516/Coding/tree/master/0202-happy-number) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HAQ516/Coding/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/HAQ516/Coding/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/HAQ516/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HAQ516/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/HAQ516/Coding/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/HAQ516/Coding/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HAQ516/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
