@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HAQ516/Coding/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1518-water-bottles](https://github.com/HAQ516/Coding/tree/master/1518-water-bottles) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/HAQ516/Coding/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HAQ516/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/HAQ516/Coding/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/HAQ516/Coding/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HAQ516/Coding/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1518-water-bottles](https://github.com/HAQ516/Coding/tree/master/1518-water-bottles) |
 ## Dynamic Programming
 |  |
 | ------- |
