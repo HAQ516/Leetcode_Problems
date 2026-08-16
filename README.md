@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/HAQ516/Coding/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/HAQ516/Coding/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/HAQ516/Coding/tree/master/0415-add-strings) |
 | [0832-flipping-an-image](https://github.com/HAQ516/Coding/tree/master/0832-flipping-an-image) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/HAQ516/Coding/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/HAQ516/Coding/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/HAQ516/Coding/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/HAQ516/Coding/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/HAQ516/Coding/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HAQ516/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0209-minimum-size-subarray-sum) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/HAQ516/Coding/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/HAQ516/Coding/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HAQ516/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0832-flipping-an-image](https://github.com/HAQ516/Coding/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/HAQ516/Coding/tree/master/0867-transpose-matrix) |
