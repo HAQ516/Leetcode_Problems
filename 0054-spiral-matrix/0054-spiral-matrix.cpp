@@ -5,7 +5,7 @@ public:
         int sr=0,er=m-1,sc=0,ec=n-1;
         int t=m*n;
         vector<int>ans;
-        while(ans.size()<t){
+        while(sr<=er && sc<=ec){
             for(int i=sc;i<=ec;i++){
                 ans.push_back(matrix[sr][i]);
             }
