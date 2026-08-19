@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/HAQ516/Coding/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/HAQ516/Coding/tree/master/0367-valid-perfect-square) |
 | [0415-add-strings](https://github.com/HAQ516/Coding/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/HAQ516/Leetcode_Problems/tree/main/0507-perfect-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HAQ516/Coding/tree/master/1252-cells-with-odd-values-in-a-matrix) |
