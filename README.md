@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/HAQ516/Coding/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/HAQ516/Leetcode_Problems/tree/main/0507-perfect-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0523-continuous-subarray-sum) |
+| [0728-self-dividing-numbers](https://github.com/HAQ516/Leetcode_Problems/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HAQ516/Coding/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1518-water-bottles](https://github.com/HAQ516/Coding/tree/master/1518-water-bottles) |
