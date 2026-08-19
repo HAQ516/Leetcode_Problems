@@ -255,5 +255,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0595-big-countries](https://github.com/HAQ516/Leetcode_Problems/tree/main/0595-big-countries/) | Easy |
 | [1683-invalid-tweets](https://github.com/HAQ516/Leetcode_Problems/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
