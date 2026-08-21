@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/HAQ516/Leetcode_Problems/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/HAQ516/Coding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HAQ516/Coding/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/HAQ516/Coding/tree/master/0258-add-digits) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0069-sqrtx](https://github.com/HAQ516/Leetcode_Problems/tree/main/0069-sqrtx/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HAQ516/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HAQ516/Coding/tree/master/0240-search-a-2d-matrix-ii) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/HAQ516/Leetcode_Problems/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/HAQ516/Leetcode_Problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/HAQ516/Leetcode_Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/HAQ516/Leetcode_Problems/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
