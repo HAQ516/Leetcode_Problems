@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/HAQ516/Coding/tree/master/0645-set-mismatch) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/HAQ516/Coding/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0930-binary-subarrays-with-sum](https://github.com/HAQ516/Coding/tree/master/0930-binary-subarrays-with-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/HAQ516/Leetcode_Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/HAQ516/Coding/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/HAQ516/Coding/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/HAQ516/Coding/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/HAQ516/Coding/tree/master/0930-binary-subarrays-with-sum) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HAQ516/Coding/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1207-unique-number-of-occurrences](https://github.com/HAQ516/Leetcode_Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HAQ516/Coding/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HAQ516/Coding/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
