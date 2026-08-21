@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HAQ516/Coding/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HAQ516/Coding/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/HAQ516/Leetcode_Problems/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HAQ516/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/HAQ516/Coding/tree/master/0367-valid-perfect-square) |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/HAQ516/Leetcode_Problems/tree/main/0069-sqrtx/) | Easy |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0278-first-bad-version](https://github.com/HAQ516/Leetcode_Problems/tree/main/0278-first-bad-version/) | Easy |
 <!---LeetCode Topics End-->
