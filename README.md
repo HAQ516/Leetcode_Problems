@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/HAQ516/Leetcode_Problems/tree/main/0507-perfect-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/HAQ516/Leetcode_Problems/tree/main/0728-self-dividing-numbers/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HAQ516/Coding/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1518-water-bottles](https://github.com/HAQ516/Coding/tree/master/1518-water-bottles) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0264-ugly-number-ii](https://github.com/HAQ516/Coding/tree/master/0264-ugly-number-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HAQ516/Leetcode_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
 | Problem Name | Difficulty |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/HAQ516/Coding/tree/master/0867-transpose-matrix) |
 | [0930-binary-subarrays-with-sum](https://github.com/HAQ516/Coding/tree/master/0930-binary-subarrays-with-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HAQ516/Coding/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/HAQ516/Leetcode_Problems/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/HAQ516/Coding/tree/master/1248-count-number-of-nice-subarrays) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HAQ516/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/HAQ516/Coding/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/HAQ516/Coding/tree/master/0645-set-mismatch) |
+| [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAQ516/Coding/tree/master/2248-intersection-of-multiple-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/HAQ516/Coding/tree/master/2733-neither-minimum-nor-maximum) |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/HAQ516/Coding/tree/master/0240-search-a-2d-matrix-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -311,4 +316,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HAQ516/Leetcode_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
