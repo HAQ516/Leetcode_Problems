@@ -9,14 +9,17 @@ public:
         for(int i=0;i<m.size();i++){
             for(int j=0;j<m[i].size();j++){
                 int idx=y*i+j;
-                t[idx]=m[i][j];
+               // t[idx]=m[i][j];
+                int k=idx/c;
+                int l=idx%c;
+                ans[k][l]=m[i][j];
             }
         }
-        for(int k=0;k<t.size();k++){
-           int i=k/c;
-           int j=k%c;
-           ans[i][j]=t[k];
-        }
+        // for(int k=0;k<t.size();k++){
+        //    int i=k/c;
+        //    int j=k%c;
+        //    ans[i][j]=t[k];
+        // }
         return ans;
     }
 };
