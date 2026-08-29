@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/HAQ516/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/HAQ516/Leetcode_Problems/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/HAQ516/Coding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HAQ516/Coding/tree/master/0231-power-of-two) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/HAQ516/Coding/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/HAQ516/Coding/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/HAQ516/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/HAQ516/Coding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HAQ516/Coding/tree/master/0059-spiral-matrix-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HAQ516/Coding/tree/master/0128-longest-consecutive-sequence) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/HAQ516/Coding/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/HAQ516/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/HAQ516/Coding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HAQ516/Coding/tree/master/0059-spiral-matrix-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HAQ516/Coding/tree/master/0240-search-a-2d-matrix-ii) |
