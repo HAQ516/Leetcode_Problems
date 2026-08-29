@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/HAQ516/Coding/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/HAQ516/Coding/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/HAQ516/Leetcode_Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HAQ516/Coding/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
 ## Simulation
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/HAQ516/Coding/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/HAQ516/Coding/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1539-kth-missing-positive-number](https://github.com/HAQ516/Leetcode_Problems/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/HAQ516/Coding/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/HAQ516/Coding/tree/master/1991-find-the-middle-index-in-array) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/HAQ516/Coding/tree/master/2053-kth-distinct-string-in-an-array) |
