@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/HAQ516/Coding/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAQ516/Coding/tree/master/2248-intersection-of-multiple-arrays) |
+| [2363-merge-similar-items](https://github.com/HAQ516/Leetcode_Problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/HAQ516/Leetcode_Problems/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAQ516/Coding/tree/master/2248-intersection-of-multiple-arrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/HAQ516/Coding/tree/master/2270-number-of-ways-to-split-array) |
+| [2363-merge-similar-items](https://github.com/HAQ516/Leetcode_Problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HAQ516/Coding/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/HAQ516/Leetcode_Problems/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAQ516/Coding/tree/master/2248-intersection-of-multiple-arrays) |
+| [2363-merge-similar-items](https://github.com/HAQ516/Leetcode_Problems/tree/main/2363-merge-similar-items/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/HAQ516/Coding/tree/master/2733-neither-minimum-nor-maximum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HAQ516/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
@@ -342,4 +345,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2363-merge-similar-items](https://github.com/HAQ516/Leetcode_Problems/tree/main/2363-merge-similar-items/) | Easy |
 <!---LeetCode Topics End-->
