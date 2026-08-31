@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/HAQ516/Coding/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/HAQ516/Coding/tree/master/2248-intersection-of-multiple-arrays) |
 | [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/HAQ516/Leetcode_Problems/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/HAQ516/Coding/tree/master/0832-flipping-an-image) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/HAQ516/Coding/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/HAQ516/Leetcode_Problems/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2270-number-of-ways-to-split-array](https://github.com/HAQ516/Coding/tree/master/2270-number-of-ways-to-split-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HAQ516/Coding/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/HAQ516/Leetcode_Problems/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2733-neither-minimum-nor-maximum](https://github.com/HAQ516/Coding/tree/master/2733-neither-minimum-nor-maximum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Sorting
