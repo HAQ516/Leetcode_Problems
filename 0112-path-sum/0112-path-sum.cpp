@@ -29,6 +29,6 @@ public:
         return ((!r->left && !r->right) && t==0) ||
           hasPathSum(r->left,t) ||
           hasPathSum(r->right,t);
-          t+=r->val;
+          
     }
 };
