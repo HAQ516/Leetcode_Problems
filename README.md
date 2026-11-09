@@ -2,8 +2,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/HAQ516/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/HAQ516/Leetcode_Problems/tree/main/0069-sqrtx/) | Easy |
 | [0202-happy-number](https://github.com/HAQ516/Coding/tree/master/0202-happy-number) |
@@ -25,13 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2806-account-balance-after-rounded-purchase](https://github.com/HAQ516/Coding/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HAQ516/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0258-add-digits](https://github.com/HAQ516/Coding/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/HAQ516/Coding/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/HAQ516/Leetcode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HAQ516/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/HAQ516/Coding/tree/master/0036-valid-sudoku) |
@@ -61,8 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/HAQ516/Leetcode_Problems/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/HAQ516/Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HAQ516/Coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HAQ516/Coding/tree/master/0018-4sum) |
@@ -77,21 +77,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/HAQ516/Leetcode_Problems/tree/main/2570-merge-two-2d-arrays-by-summing-values/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0231-power-of-two](https://github.com/HAQ516/Coding/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HAQ516/Coding/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/HAQ516/Coding/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/HAQ516/Coding/tree/master/0832-flipping-an-image) |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0231-power-of-two](https://github.com/HAQ516/Coding/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/HAQ516/Coding/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HAQ516/Coding/tree/master/0342-power-of-four) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/HAQ516/Leetcode_Problems/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -108,8 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HAQ516/Coding/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/HAQ516/Coding/tree/master/2540-minimum-common-value) |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0054-spiral-matrix](https://github.com/HAQ516/Coding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/HAQ516/Coding/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/HAQ516/Coding/tree/master/0258-add-digits) |
@@ -121,21 +121,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1518-water-bottles](https://github.com/HAQ516/Coding/tree/master/1518-water-bottles) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/HAQ516/Coding/tree/master/0042-trapping-rain-water) |
 | [0264-ugly-number-ii](https://github.com/HAQ516/Coding/tree/master/0264-ugly-number-ii) |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0264-ugly-number-ii](https://github.com/HAQ516/Coding/tree/master/0264-ugly-number-ii) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HAQ516/Leetcode_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/HAQ516/Coding/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HAQ516/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/HAQ516/Coding/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/HAQ516/Coding/tree/master/0242-valid-anagram) |
@@ -149,8 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2085-count-common-words-with-one-occurrence](https://github.com/HAQ516/Coding/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HAQ516/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/HAQ516/Leetcode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/HAQ516/Coding/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/HAQ516/Coding/tree/master/0015-3sum) |
@@ -207,8 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/HAQ516/Coding/tree/master/2733-neither-minimum-nor-maximum) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/HAQ516/Coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/HAQ516/Coding/tree/master/0018-4sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -224,8 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/HAQ516/Coding/tree/master/2733-neither-minimum-nor-maximum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HAQ516/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/HAQ516/Coding/tree/master/0525-contiguous-array) |
@@ -236,8 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/HAQ516/Coding/tree/master/1991-find-the-middle-index-in-array) |
 | [2270-number-of-ways-to-split-array](https://github.com/HAQ516/Coding/tree/master/2270-number-of-ways-to-split-array) |
 ## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/HAQ516/Coding/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/HAQ516/Coding/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/HAQ516/Coding/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -245,14 +245,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/HAQ516/Coding/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/HAQ516/Coding/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/HAQ516/Coding/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/HAQ516/Coding/tree/master/0409-longest-palindrome) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/HAQ516/Coding/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/HAQ516/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/HAQ516/Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/HAQ516/Coding/tree/master/0219-contains-duplicate-ii) |
@@ -265,8 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-k-radius-subarray-averages](https://github.com/HAQ516/Coding/tree/master/2090-k-radius-subarray-averages) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/HAQ516/Coding/tree/master/2799-count-complete-subarrays-in-an-array) |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0036-valid-sudoku](https://github.com/HAQ516/Coding/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/HAQ516/Leetcode_Problems/tree/main/0048-rotate-image/) | Medium |
 | [0054-spiral-matrix](https://github.com/HAQ516/Coding/tree/master/0054-spiral-matrix) |
@@ -277,26 +277,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/HAQ516/Coding/tree/master/0867-transpose-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/2022-convert-1d-array-into-2d-array/) | Easy |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HAQ516/Coding/tree/master/0128-longest-consecutive-sequence) |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/HAQ516/Coding/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0042-trapping-rain-water](https://github.com/HAQ516/Coding/tree/master/0042-trapping-rain-water) |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/HAQ516/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0584-find-customer-referee](https://github.com/HAQ516/Leetcode_Problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/HAQ516/Leetcode_Problems/tree/main/0595-big-countries/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/HAQ516/Leetcode_Problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
@@ -304,52 +304,62 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/HAQ516/Leetcode_Problems/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/HAQ516/Leetcode_Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Newton's Method
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0069-sqrtx](https://github.com/HAQ516/Leetcode_Problems/tree/main/0069-sqrtx/) | Easy |
 ## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0278-first-bad-version](https://github.com/HAQ516/Leetcode_Problems/tree/main/0278-first-bad-version/) | Easy |
 ## Ternary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/HAQ516/Coding/tree/master/0101-symmetric-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HAQ516/Leetcode_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HAQ516/Leetcode_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HAQ516/Leetcode_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/HAQ516/Coding/tree/master/0101-symmetric-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HAQ516/Leetcode_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HAQ516/Leetcode_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HAQ516/Leetcode_Problems/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## K-D Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0973-k-closest-points-to-origin](https://github.com/HAQ516/Leetcode_Problems/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2363-merge-similar-items](https://github.com/HAQ516/Leetcode_Problems/tree/main/2363-merge-similar-items/) | Easy |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/HAQ516/Coding/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/HAQ516/Coding/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
