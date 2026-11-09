@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/HAQ516/Coding/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/HAQ516/Coding/tree/master/0112-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HAQ516/Leetcode_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/HAQ516/Coding/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/HAQ516/Coding/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/HAQ516/Coding/tree/master/0112-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HAQ516/Leetcode_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/HAQ516/Coding/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -361,9 +363,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/HAQ516/Coding/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/HAQ516/Coding/tree/master/0112-path-sum) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/HAQ516/Coding/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/HAQ516/Coding/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/HAQ516/Coding/tree/master/0112-path-sum) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/HAQ516/Coding/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
