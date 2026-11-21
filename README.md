@@ -322,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/HAQ516/Coding/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HAQ516/Coding/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/HAQ516/Coding/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HAQ516/Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HAQ516/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/HAQ516/Coding/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/HAQ516/Coding/tree/master/0543-diameter-of-binary-tree) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HAQ516/Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/HAQ516/Leetcode_Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Binary Tree
 |  |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/HAQ516/Coding/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HAQ516/Coding/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/HAQ516/Coding/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HAQ516/Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HAQ516/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HAQ516/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HAQ516/Coding/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/HAQ516/Coding/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/HAQ516/Coding/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/HAQ516/Coding/tree/master/0199-binary-tree-right-side-view) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/HAQ516/Coding/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HAQ516/Coding/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/HAQ516/Coding/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HAQ516/Coding/tree/master/0637-average-of-levels-in-binary-tree) |
