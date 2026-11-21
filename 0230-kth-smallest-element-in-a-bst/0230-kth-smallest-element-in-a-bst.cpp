@@ -12,7 +12,7 @@
 class Solution {
 public:
 void h(TreeNode* r, int& k, int& c,int& ans){
-    if(!r || k==c) return;
+    if(!r || k<=c) return;
     h(r->left,k,c,ans);
     c++;
     if(k==c){
