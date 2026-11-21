@@ -11,19 +11,20 @@
  */
 class Solution {
 public:
-void h(TreeNode* r, int& k, int& c,int& ans){
-    if(!r || k<=c) return;
-    h(r->left,k,c,ans);
-    c++;
-    if(k==c){
+void h(TreeNode* r, int& k,int& ans){
+    if(!r) return;
+    h(r->left,k,ans);
+    k--;
+    if(k==0){
         ans=r->val;
     }
-    h(r->right,k,c,ans);
+    if(k<=0) return;
+    h(r->right,k,ans);
 }
     int kthSmallest(TreeNode* root, int k) {
         int ans=-1;
         int a=0;
-        h(root,k,a,ans);
+        h(root,k,ans);
         return ans;
     }
 };
